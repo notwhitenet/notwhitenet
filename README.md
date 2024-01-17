@@ -1,4 +1,4 @@
-<h3 align="center">whitenet</h3>
+<h1 align="center">Hi there, I'm <a href="https://whitenet.shop/" target="_blank">Whitenet</a> 
 
 <h3 align="left">🫧 Connect with me:</h3>
 <p align="left">

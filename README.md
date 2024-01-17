@@ -1,4 +1,4 @@
-<h3 align="center">whitepussy</h3>
+<h3 align="center">whitenet</h3>
 
 <h3 align="left">🫧 Connect with me:</h3>
 <p align="left">

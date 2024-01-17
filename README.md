@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://dev.to/white.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="white.dev" height="30" width="40" /></a>
 <a href="https://instagram.com/whitenetov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitenetov" height="30" width="40" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sss" height="30" width="40" /></a>
+<a href="[https://discord.com](https://discord.com/users/249175254478487562)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🫧 Languages and Tools:</h3>
